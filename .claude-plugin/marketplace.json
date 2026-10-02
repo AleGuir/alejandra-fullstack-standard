@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "alejandra-development-system",
+      "name": "development-system",
       "displayName": "Alejandra Development System",
       "description": "Reusable development standards, skills, rules and workflows for Next.js full-stack projects.",
       "version": "1.0.0",
