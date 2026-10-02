@@ -1,0 +1,8 @@
+{
+  "name": "alejandra-development-system",
+  "version": "1.0.0",
+  "description": "Development system with reusable engineering standards, skills and workflows for Next.js, React and TypeScript projects.",
+  "author": {
+    "name": "Alejandra"
+  }
+}

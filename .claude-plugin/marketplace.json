@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "alejandra-development-marketplace",
+  "version": "1.0.0",
+  "description": "Development system for Next.js, React, TypeScript and full-stack projects.",
+  "owner": {
+    "name": "Alejandra"
+  },
+  "plugins": [
+    {
+      "name": "alejandra-development-system",
+      "displayName": "Alejandra Development System",
+      "description": "Reusable development standards, skills, rules and workflows for Next.js full-stack projects.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alejandra"
+      },
+      "source": "./plugins/alejandra-development-system",
+      "category": "development"
+    }
+  ]
+}
